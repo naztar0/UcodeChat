@@ -1,0 +1,129 @@
+#messanger
+{
+  background-color: #273255;
+}
+#list
+{
+  background-color: #39456d;
+}
+#search_field
+{
+  font-family: Rubik, 'Helvetica Neue Light', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 300;
+  border-radius: 13px;
+  border: none;
+  background-color: #18254e;
+  font-size: 12px;
+  box-shadow: none;
+  color: rgb(180, 191, 216);
+}
+#search_block
+{
+  border-radius: 13px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: #18254e;
+}
+#adduser
+{
+  background-image: url("../images/add-user.png");
+  background-repeat: no-repeat;
+  background-size: 22px;
+}
+#adduser:hover
+{
+  background-image: url("../images/add-user-hover.png");
+}
+#dm_text
+{
+  font-family: Rubik, 'Helvetica Neue Light', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 500;
+  color: #6776a7;
+  font-size: 11px;
+  margin-left: 15px;
+}
+#entry_block
+{
+  background-color: #344065;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 13px;
+}
+#attach
+{
+  background-image: url("../images/attach.png");
+  background-repeat: no-repeat;
+  background-size: 26px;
+}
+#attach:hover
+{
+  background-image: url("../images/attach-hover.png");
+}
+#entry_text
+{
+  font-family: Rubik, 'Helvetica Neue Light', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 300;
+  border: none;
+  background-color: #344065;
+  font-size: 14px;
+  box-shadow: none;
+  color: rgb(193, 206, 236);
+}
+#send
+{
+  background-image: url("../images/send.png");
+  background-repeat: no-repeat;
+  background-size: 26px;
+}
+#send:hover
+{
+  background-image: url("../images/send-hover.png");
+}
+#sticker
+{
+  background-image: url("../images/sticker.png");
+  background-repeat: no-repeat;
+  background-size: 26px;
+}
+#sticker:hover
+{
+  background-image: url("../images/sticker-hover.png");
+}
+#scrollable_msg
+{
+  background-color: #273255;
+}
+#messages_block
+{
+  margin-left: 20px;
+  margin-right: 20px;
+  /* background-color: #ffffff; */
+}
+/* #messages_body
+{
+  background-color: #000000;
+} */
+#message
+{
+  font-family: Rubik, 'Helvetica Neue Light', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  color: rgb(193, 206, 236);
+
+  border: none;
+  border-radius: 13px;
+  box-shadow: none;
+  background-color: #5063a3;
+
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
